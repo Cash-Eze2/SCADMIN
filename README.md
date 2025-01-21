@@ -1,4 +1,4 @@
-# VREP - Education Dashboard
+# ScAdmin - Education Dashboard
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -6,13 +6,13 @@
 
 ## Introduction
 
-VREP: Education Dashboard for Schools
+ScAdmin: Education Dashboard for Schools
 
-VREP is a user-friendly web application designed to streamline administrative tasks and enhance educational workflows for elementary schools. It empowers schools to effectively manage student enrollment, conduct and evaluate exams, track results, and stay informed about upcoming school events.
+ScAdmin is a user-friendly web application designed to streamline administrative tasks and enhance educational workflows for elementary schools. ScAdmin will aid in giving solid foundation for E-Learning. It will make all educational and administrative duties easier to manage. It empowers schools to effectively manage student enrollment, conduct and evaluate exams, track results, and stay informed about upcoming school events.
 
 ## Features
 
-VREP offers a wide range of features for students, including:
+ScAdmin offers a wide range of features for students, including:
 
 1. **Student Management**:
       - Register new students and maintain accurate student records.
@@ -37,4 +37,4 @@ VREP offers a wide range of features for students, including:
 
 
 
-**Explore the world of education with VREP and unlock a new dimension of learning!**
+**Explore the world of education with ScAdmin and unlock a new dimension of learning!**
